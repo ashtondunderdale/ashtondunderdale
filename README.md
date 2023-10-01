@@ -2,4 +2,4 @@
 
 Junior C# Developer
 
-- Currently learning Java 
+- ☕ Currently learning Java
