@@ -1,12 +1,10 @@
 ### Hi, 👋
 
-#### Junior C# Developer
-
-Primary Language: C#
+#### Junior C# Developer ( primary language )
 
 Experienced in:
 
-* Java
-* Python
-* SQL
-* HTML, CSS, JS
+* ☕ Java
+* 🐍 Python
+* 🗃️ SQL
+* 🖥️ HTML, CSS, JS
