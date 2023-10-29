@@ -1,17 +1,19 @@
-### Hi, 👋
+```csharp
+class SoftwareDeveloper
+{
+    public string Name { get; set; } = "Ashton Dunderdale";
+    public string Role { get; set; } = "Junior Software Developer";
 
-#### Junior C# Developer ( primary language )
+    public void Hi()
+    {
+        Console.WriteLine($"Hello, I'm {Name}, {Role}.");
+    }
 
-I have used:
+    static void Main(string[] args)
+    {
+        SoftwareDeveloper developer = new();
+        developer.Hi();
+    }
+}
+```
 
-* ☕ Java
-* 🐍 Python
-* 🗃️ SQL
-* 🖥️ HTML, CSS, JS
-* 🧠 BrainF*ck
-
-***
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashtondunderdale&theme=radical)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashtondunderdale&show_icons=true&locale=en&layout=compact" alt="ashtondunderdale" /></p>
