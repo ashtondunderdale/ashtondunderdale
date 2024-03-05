@@ -2,8 +2,5 @@ I like:
 
   - C#
   - C++
-  - Flutter
-  - C
-  - MongoDB
+  - Q#
 
-  - BrainFuck
